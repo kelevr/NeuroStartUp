@@ -5,7 +5,5 @@
 - Высокая точность поиска
 - Высокая скорость поиска
 - Низкая цена
-
-
-![](https://github.com/netology-ds-team/git-homeworks/blob/main/1_self/logo.png)
+  ![](https://github.com/netology-ds-team/git-homeworks/blob/main/1_self/logo.png)
   
